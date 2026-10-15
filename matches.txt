@@ -1,0 +1,3 @@
+bots/my-bot bots/starter-python maps/collision.map26a replays/collision.repl26a
+bots/my-bot bots/starter-python maps/corners.map26a replays/corners.repl26a
+bots/my-bot bots/starter-python maps/expanse.map26a replays/expanse.repl26a

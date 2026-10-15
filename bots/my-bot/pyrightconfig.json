@@ -1,1 +1,7 @@
-{ "extraPaths": ["../../sdk/python"] }
+
+{
+  "extraPaths": [
+    "../../sdk/python"
+  ]
+}
+
